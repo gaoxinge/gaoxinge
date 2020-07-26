@@ -1,6 +1,6 @@
 ## specification
 
-- codes are not available here because these codes are the owned by [Tianrang Inc.](https://www.tianrang.com/)
+- codes are not available here because they are owned by [Tianrang Inc.](https://www.tianrang.com/)
 
 ## input
 
