@@ -18,3 +18,5 @@
 
 ## Open Source Contribution
 
+- [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2)
+- [apache/dubbo-go](https://github.com/apache/dubbo-go)
