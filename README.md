@@ -1,9 +1,9 @@
-## Job1: [TianRang Inc.](https://www.tianrang.com/)
+## [TianRang Inc.](https://www.tianrang.com/)
 
 ### Automatic Marketing
 
-- develop and maintain API
 - generate daily report
+- develop and maintian audience targeting
 
 ### OCR
 
