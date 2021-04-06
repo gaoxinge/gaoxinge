@@ -2,12 +2,14 @@
 
 ### Automatic Marketing
 
+- maintain web spider and proxy
 - generate daily report
-- develop and maintian audience targeting
+- develop consul registry and log dingtalk for algorithm service
 
 ### OCR
 
 - develop and maintain data augmentation
+- develop and maintain model deployment 
 - access OCR module into bank's application
 
 ### Interesting Work
