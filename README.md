@@ -12,6 +12,13 @@
 - develop and maintain model deployment 
 - access OCR module into bank's application
 
+### Recommender System
+
+- develop frontend and backend system for operators
+- develop backend system for recommender system
+  - wrap deep learning model
+  - write rule based code
+
 ### Interesting Work
 
 - learn [machine learning](https://zhuanlan.zhihu.com/c_159352921) and [reinforcement learning](https://zhuanlan.zhihu.com/c_141802064)
