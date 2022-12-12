@@ -19,7 +19,7 @@
   - wrap deep learning model
   - write rule based code
 
-### Other
+### Interesting Work
 
 - learn [machine learning](https://zhuanlan.zhihu.com/c_159352921) and [reinforcement learning](https://zhuanlan.zhihu.com/c_141802064)
 - extract crowd tag from SQL and [a simple example](https://github.com/gaoxinge/gaoxinge/tree/master/job1/interesting%20work/2)
