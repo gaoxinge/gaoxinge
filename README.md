@@ -27,8 +27,8 @@
 
 ## Open Source Contribution
 
-| source | tag | status | 
-|--|--|--|
-| [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2) | apache dubbo | not focus |
-| [apache/dubbo-getty](https://github.com/apache/dubbo-getty) | apache dubbo | not focus |
-| [apache/dubbo-go](https://github.com/apache/dubbo-go) | apache dubbo | not focus |
+| source | tag | introduction | status | 
+|--|--|--|--|
+| [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2) | apache dubbo | golang implementation of hessian2 serialization protocol | not focus |
+| [apache/dubbo-getty](https://github.com/apache/dubbo-getty) | apache dubbo | golang network framework | not focus |
+| [apache/dubbo-go](https://github.com/apache/dubbo-go) | apache dubbo | golang implementation of dubbo microservice framework | not focus |
