@@ -32,3 +32,11 @@
 | [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2) | apache dubbo | golang implementation of hessian2 serialization protocol | not focus |
 | [apache/dubbo-getty](https://github.com/apache/dubbo-getty) | apache dubbo | golang network framework | not focus |
 | [apache/dubbo-go](https://github.com/apache/dubbo-go) | apache dubbo | golang implementation of dubbo microservice framework | not focus |
+
+## Skill
+
+- `docker`, `k8s`
+- `dapr`
+- `basic paxos`, `raft`
+- `2PC`, `spanner`, `percolator`, `omid`
+- [CMU 15445](https://github.com/gaoxinge/bustub), [MIT 6.824](https://github.com/gaoxinge/6.824)
