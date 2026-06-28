@@ -1,6 +1,6 @@
 ## CV
 
-- [cv](./profile.pdf)
+- [cv](./cv.pdf)
 
 ## Interesting Work
 
